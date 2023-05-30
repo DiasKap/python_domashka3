@@ -7,4 +7,4 @@ for i in range(1, quantity_el):
     if abs(my_array[i]-find_num) < abs(my_array[index]-find_num): #compare in absolute numbers differences
         index=i
 
-print(f"The number {my_array[index]} is closest to the number {find_num}.")
+print(f"The number {my_array[index]} is closest to the number {find_num},")
