@@ -7,4 +7,4 @@ for i in range(quantity_el):
     if my_array[i] == find_num:
         count +=1
 
-print(f"Number {find_num} entered {count} times.")
+print(f"Number {find_num} entered {count} times,")
